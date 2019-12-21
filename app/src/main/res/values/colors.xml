@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="red">#C83C32</color><!--北大红 -->
+    <color name="wx_top_left_normal">#ff22292c</color>
+    <color name="wx_top_left_press">#181D1F</color>
+    <color name="wx_login_cantpress">#A2E08D</color>
+    <color name="wx_login_normal">#45C01A</color>
+    <color name="wx_login_press">#298409</color>
+</resources>
+
